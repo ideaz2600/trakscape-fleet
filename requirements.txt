@@ -1,0 +1,26 @@
+# Trakscape Fleet Platform Dependencies
+
+# Core
+PyYAML>=6.0
+python-dotenv>=1.0.0
+
+# GPS/Serial
+pyserial>=3.5
+
+# Firebase
+firebase-admin>=6.1.0
+
+# Hardware (Raspberry Pi)
+smbus2>=0.4.2
+RPi.GPIO>=0.7.1
+
+# Development/Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.1
+black>=23.7.0
+flake8>=6.1.0
+
+# Optional
+requests>=2.31.0
+numpy>=1.24.3

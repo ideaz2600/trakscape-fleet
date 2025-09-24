@@ -1,0 +1,24 @@
+[Unit]
+Description=Trakscape Fleet GPS Tracker Service
+After=network.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=pi
+Group=pi
+WorkingDirectory=/opt/trakscape-fleet
+Environment="PYTHONPATH=/opt/trakscape-fleet"
+ExecStartPre=/bin/sleep 10
+ExecStart=/usr/bin/python3 /opt/trakscape-fleet/src/main.py
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+# Security
+PrivateTmp=yes
+NoNewPrivileges=true
+
+[Install]
+WantedBy=multi-user.target

@@ -1,7 +1,7 @@
 ---
-allowed-tools: Bash(git:*), Bash(gh:*), TodoWrite, Read
+allowed-tools: Bash(git:*), Bash(gh:*), TodoWrite, Read, Task, Write, Edit, MultiEdit
 argument-hint: [issue-number]
-description: Start working on a feature from a GitHub issue
+description: Start working on a feature from a GitHub issue with specialized subagent support
 ---
 
 ## Issue Details
@@ -21,11 +21,22 @@ Complete feature setup:
 6. Extract TODO items from issue body
 7. Create draft PR linked to issue
 
+## Utilize Specialized Subagents
+
+Based on the issue labels and content, delegate to appropriate specialist subagents:
+
+- **GPS/4G HAT features**: Use the gps-hat-specialist subagent for serial AT commands, GPS parsing, and cellular connectivity
+- **Firebase features**: Use the firebase-specialist subagent for real-time database, offline sync, and batch uploads
+- **Power/UPS features**: Use the ups-power-specialist subagent for I2C communication, battery monitoring, and shutdown procedures
+- **Deployment tasks**: Use the pi-deployment-specialist subagent for Raspberry Pi setup and systemd services
+- **Testing requirements**: Use the test-validator-specialist subagent for unit tests, mocks, and integration tests
+- **Overall coordination**: Use the fleet-project-orchestrator subagent to coordinate multiple specialists
+
 For Phase 1 Fleet Tracker features (based on issue labels):
-- GPS Tracking: Set up serial communication testing
-- Firebase Sync: Configure credentials and project
-- UPS Management: Enable I2C interface
-- Data Buffer: Initialize SQLite database
+- GPS Tracking: Delegate to gps-hat-specialist for serial communication setup
+- Firebase Sync: Delegate to firebase-specialist for credentials and project config
+- UPS Management: Delegate to ups-power-specialist for I2C interface setup
+- Data Buffer: Delegate to firebase-specialist for SQLite database initialization
 
 Project structure to create:
 ```

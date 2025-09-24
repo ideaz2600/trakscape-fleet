@@ -1,0 +1,44 @@
+# Trakscape Fleet Platform Configuration
+
+device:
+  id: fleet-001
+  name: Vehicle 1
+  type: vehicle
+
+gps:
+  port: /dev/ttyUSB2  # GPS serial port on 4G HAT
+  baudrate: 115200
+  update_interval: 10  # seconds
+  timeout: 5
+  min_satellites: 4
+
+cellular:
+  apn: internet  # Your carrier's APN
+  check_interval: 30  # seconds
+  reconnect_delay: 10
+
+firebase:
+  project_id: your-firebase-project
+  credentials_path: config/firebase_key.json
+  sync_interval: 30  # seconds
+  batch_size: 100
+  compression: true
+
+power:
+  i2c_address: 0x36  # UPS HAT I2C address
+  low_battery_threshold: 20  # percentage
+  critical_battery_threshold: 5
+  shutdown_delay: 60  # seconds
+  check_interval: 10
+
+buffer:
+  database_path: data/buffer.db
+  max_size_mb: 1000
+  retention_days: 7
+  cleanup_interval: 3600  # seconds
+
+logging:
+  level: INFO
+  file: logs/fleet_tracker.log
+  max_size_mb: 100
+  backup_count: 5
