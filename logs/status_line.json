@@ -1,0 +1,2972 @@
+[
+  {
+    "timestamp": "2025-09-24T11:29:23.448585",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 4243,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:29:27.049709",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 8599,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:29:59.771088",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 41277,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:30:00.355971",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 41866,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:30:09.057633",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0004504,
+        "total_duration_ms": 50600,
+        "total_api_duration_ms": 1365,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:30:15.776140",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.24725139999999995,
+        "total_duration_ms": 57102,
+        "total_api_duration_ms": 15052,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:30:20.020479",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.24725139999999995,
+        "total_duration_ms": 61548,
+        "total_api_duration_ms": 15052,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:30:21.117345",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.29216889999999995,
+        "total_duration_ms": 62536,
+        "total_api_duration_ms": 20210,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:30:29.146387",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.34710954999999993,
+        "total_duration_ms": 70475,
+        "total_api_duration_ms": 29039,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:30:51.757481",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.4510325499999999,
+        "total_duration_ms": 93309,
+        "total_api_duration_ms": 51644,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:32:59.036770",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 4622,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:33:37.927819",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0004456,
+        "total_duration_ms": 44196,
+        "total_api_duration_ms": 1864,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:34:13.797057",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0004456,
+        "total_duration_ms": 80057,
+        "total_api_duration_ms": 1864,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:34:29.351818",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0045992,
+        "total_duration_ms": 95596,
+        "total_api_duration_ms": 4285,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:34:35.487246",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.15857045,
+        "total_duration_ms": 101641,
+        "total_api_duration_ms": 15919,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:34:43.519138",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.2234342,
+        "total_duration_ms": 109643,
+        "total_api_duration_ms": 23710,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:34:48.531328",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.27209495,
+        "total_duration_ms": 114769,
+        "total_api_duration_ms": 28561,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:34:56.354589",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.32924915,
+        "total_duration_ms": 122489,
+        "total_api_duration_ms": 36957,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:35:29.698007",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.47526215,
+        "total_duration_ms": 155904,
+        "total_api_duration_ms": 70199,
+        "total_lines_added": 147,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:35:39.880777",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.55740665,
+        "total_duration_ms": 165985,
+        "total_api_duration_ms": 79973,
+        "total_lines_added": 147,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:36:24.369113",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.7539329,
+        "total_duration_ms": 210555,
+        "total_api_duration_ms": 124259,
+        "total_lines_added": 416,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:36:35.071002",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.85096415,
+        "total_duration_ms": 221175,
+        "total_api_duration_ms": 134615,
+        "total_lines_added": 416,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:37:29.624372",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.0882484000000001,
+        "total_duration_ms": 275792,
+        "total_api_duration_ms": 188954,
+        "total_lines_added": 724,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:37:38.413012",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.1978001500000002,
+        "total_duration_ms": 284502,
+        "total_api_duration_ms": 197268,
+        "total_lines_added": 724,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:38:43.817364",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.4915256500000003,
+        "total_duration_ms": 349984,
+        "total_api_duration_ms": 262413,
+        "total_lines_added": 1162,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:38:53.443096",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.6193609000000002,
+        "total_duration_ms": 359517,
+        "total_api_duration_ms": 271599,
+        "total_lines_added": 1162,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:40:10.429025",
+    "version": "unified",
+    "input_data": {
+      "session_id": "dfbf33e0-94fd-4314-b2e1-a5ee80b58595",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/dfbf33e0-94fd-4314-b2e1-a5ee80b58595.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 3489,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:40:52.128867",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.1585869000000004,
+        "total_duration_ms": 478384,
+        "total_api_duration_ms": 390042,
+        "total_lines_added": 1823,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:41:01.648533",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.3503289000000005,
+        "total_duration_ms": 487812,
+        "total_api_duration_ms": 399128,
+        "total_lines_added": 1823,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:41:57.912498",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.6074349000000003,
+        "total_duration_ms": 544142,
+        "total_api_duration_ms": 455064,
+        "total_lines_added": 2134,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:42:06.871229",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.7380631500000003,
+        "total_duration_ms": 553006,
+        "total_api_duration_ms": 463529,
+        "total_lines_added": 2134,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:42:11.770214",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.8169166500000005,
+        "total_duration_ms": 558013,
+        "total_api_duration_ms": 468075,
+        "total_lines_added": 2134,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:42:20.570758",
+    "version": "unified",
+    "input_data": {
+      "session_id": "5a51d4a3-8c64-4662-a707-d240b68e5bf5",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/5a51d4a3-8c64-4662-a707-d240b68e5bf5.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.9058128500000007,
+        "total_duration_ms": 566823,
+        "total_api_duration_ms": 478082,
+        "total_lines_added": 2134,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:43:20.963013",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.4510325499999999,
+        "total_duration_ms": 842276,
+        "total_api_duration_ms": 51644,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:43:28.949175",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.4510325499999999,
+        "total_duration_ms": 850495,
+        "total_api_duration_ms": 51644,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:43:29.224228",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.4510325499999999,
+        "total_duration_ms": 850795,
+        "total_api_duration_ms": 51644,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:47:02.614167",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.4512773499999999,
+        "total_duration_ms": 1064078,
+        "total_api_duration_ms": 52980,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:47:02.961961",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.4512773499999999,
+        "total_duration_ms": 1064381,
+        "total_api_duration_ms": 52980,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:47:03.146037",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.4512773499999999,
+        "total_duration_ms": 1064537,
+        "total_api_duration_ms": 52980,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:47:03.490705",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.4512773499999999,
+        "total_duration_ms": 1064848,
+        "total_api_duration_ms": 52980,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:47:36.530962",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.4512773499999999,
+        "total_duration_ms": 1098075,
+        "total_api_duration_ms": 52980,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:47:36.846434",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.4512773499999999,
+        "total_duration_ms": 1098376,
+        "total_api_duration_ms": 52980,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:47:45.928764",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.4539725499999999,
+        "total_duration_ms": 1107417,
+        "total_api_duration_ms": 54644,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:47:50.849196",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.8052335499999999,
+        "total_duration_ms": 1112093,
+        "total_api_duration_ms": 63613,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:47:55.329909",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.8052335499999999,
+        "total_duration_ms": 1116867,
+        "total_api_duration_ms": 63613,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:47:56.729408",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.8586095499999998,
+        "total_duration_ms": 1118095,
+        "total_api_duration_ms": 69264,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:47:58.502502",
+    "version": "unified",
+    "input_data": {
+      "session_id": "dfbf33e0-94fd-4314-b2e1-a5ee80b58595",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/dfbf33e0-94fd-4314-b2e1-a5ee80b58595.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 472191,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:47:59.248204",
+    "version": "unified",
+    "input_data": {
+      "session_id": "dfbf33e0-94fd-4314-b2e1-a5ee80b58595",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/dfbf33e0-94fd-4314-b2e1-a5ee80b58595.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 472961,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:48:06.873681",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.8589879499999998,
+        "total_duration_ms": 1128418,
+        "total_api_duration_ms": 70293,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:48:07.276823",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.8589879499999998,
+        "total_duration_ms": 1128719,
+        "total_api_duration_ms": 70293,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:48:20.839133",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.8591679499999998,
+        "total_duration_ms": 1142263,
+        "total_api_duration_ms": 71519,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:48:37.609285",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.9631554499999998,
+        "total_duration_ms": 1159165,
+        "total_api_duration_ms": 92697,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:50:03.362048",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.9631554499999998,
+        "total_duration_ms": 1244592,
+        "total_api_duration_ms": 92697,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:50:03.630146",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.9631554499999998,
+        "total_duration_ms": 1244915,
+        "total_api_duration_ms": 92697,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:50:11.697973",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.03438445,
+        "total_duration_ms": 1253122,
+        "total_api_duration_ms": 100695,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:50:15.003059",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.03438445,
+        "total_duration_ms": 1256569,
+        "total_api_duration_ms": 100695,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:50:16.137462",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.0880596999999999,
+        "total_duration_ms": 1257686,
+        "total_api_duration_ms": 104991,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:50:19.197669",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.0884372999999998,
+        "total_duration_ms": 1260765,
+        "total_api_duration_ms": 106110,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:50:28.409413",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.1586335499999998,
+        "total_duration_ms": 1269701,
+        "total_api_duration_ms": 117695,
+        "total_lines_added": 29,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:50:37.234535",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.23108655,
+        "total_duration_ms": 1278783,
+        "total_api_duration_ms": 126525,
+        "total_lines_added": 58,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:50:44.956877",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.2958063,
+        "total_duration_ms": 1286375,
+        "total_api_duration_ms": 133798,
+        "total_lines_added": 78,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:50:52.434648",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.36184005,
+        "total_duration_ms": 1293799,
+        "total_api_duration_ms": 140789,
+        "total_lines_added": 98,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:50:55.960249",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.36184005,
+        "total_duration_ms": 1297506,
+        "total_api_duration_ms": 140789,
+        "total_lines_added": 98,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:51:00.335523",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.42749955,
+        "total_duration_ms": 1301765,
+        "total_api_duration_ms": 148389,
+        "total_lines_added": 98,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:51:11.706675",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5058753,
+        "total_duration_ms": 1313069,
+        "total_api_duration_ms": 158821,
+        "total_lines_added": 127,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:51:19.554720",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5756283,
+        "total_duration_ms": 1321026,
+        "total_api_duration_ms": 166296,
+        "total_lines_added": 151,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:51:29.450469",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.64662855,
+        "total_duration_ms": 1330781,
+        "total_api_duration_ms": 175674,
+        "total_lines_added": 177,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:51:38.233699",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.7194558,
+        "total_duration_ms": 1339779,
+        "total_api_duration_ms": 184257,
+        "total_lines_added": 205,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:51:41.533211",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.7194558,
+        "total_duration_ms": 1343069,
+        "total_api_duration_ms": 184257,
+        "total_lines_added": 205,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:51:46.339728",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.78759255,
+        "total_duration_ms": 1347816,
+        "total_api_duration_ms": 191867,
+        "total_lines_added": 205,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:51:58.319433",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.8687418,
+        "total_duration_ms": 1359861,
+        "total_api_duration_ms": 203349,
+        "total_lines_added": 247,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:52:10.514244",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.95107455,
+        "total_duration_ms": 1372064,
+        "total_api_duration_ms": 214979,
+        "total_lines_added": 285,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:52:22.012248",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.0347618,
+        "total_duration_ms": 1383544,
+        "total_api_duration_ms": 225962,
+        "total_lines_added": 326,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:52:33.213939",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.11847755,
+        "total_duration_ms": 1394741,
+        "total_api_duration_ms": 236627,
+        "total_lines_added": 373,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:52:36.802527",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.11847755,
+        "total_duration_ms": 1398353,
+        "total_api_duration_ms": 236627,
+        "total_lines_added": 373,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:52:41.103554",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.18938405,
+        "total_duration_ms": 1402552,
+        "total_api_duration_ms": 243783,
+        "total_lines_added": 373,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:52:53.186157",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.27890555,
+        "total_duration_ms": 1414728,
+        "total_api_duration_ms": 255417,
+        "total_lines_added": 415,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:53:04.366633",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.3690308,
+        "total_duration_ms": 1425912,
+        "total_api_duration_ms": 266010,
+        "total_lines_added": 467,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:53:16.652445",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.4585058,
+        "total_duration_ms": 1438196,
+        "total_api_duration_ms": 277684,
+        "total_lines_added": 512,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:53:27.333204",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.54343655,
+        "total_duration_ms": 1448801,
+        "total_api_duration_ms": 287654,
+        "total_lines_added": 555,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:53:31.289543",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.54343655,
+        "total_duration_ms": 1452834,
+        "total_api_duration_ms": 287654,
+        "total_lines_added": 555,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:53:36.731766",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.6235943,
+        "total_duration_ms": 1458195,
+        "total_api_duration_ms": 296344,
+        "total_lines_added": 563,
+        "total_lines_removed": 4
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:53:45.660170",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.70781405,
+        "total_duration_ms": 1467211,
+        "total_api_duration_ms": 304736,
+        "total_lines_added": 571,
+        "total_lines_removed": 11
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:53:53.280941",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.7852103,
+        "total_duration_ms": 1474826,
+        "total_api_duration_ms": 311627,
+        "total_lines_added": 585,
+        "total_lines_removed": 15
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:53:56.811263",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.7852103,
+        "total_duration_ms": 1478369,
+        "total_api_duration_ms": 311627,
+        "total_lines_added": 585,
+        "total_lines_removed": 15
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:54:00.660530",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.85956605,
+        "total_duration_ms": 1482141,
+        "total_api_duration_ms": 318312,
+        "total_lines_added": 585,
+        "total_lines_removed": 15
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:54:16.689900",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.9599535500000003,
+        "total_duration_ms": 1498232,
+        "total_api_duration_ms": 333707,
+        "total_lines_added": 638,
+        "total_lines_removed": 15
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:54:30.193296",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.0633103000000004,
+        "total_duration_ms": 1511730,
+        "total_api_duration_ms": 346495,
+        "total_lines_added": 697,
+        "total_lines_removed": 15
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:54:45.151542",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.1674028000000005,
+        "total_duration_ms": 1526699,
+        "total_api_duration_ms": 360744,
+        "total_lines_added": 755,
+        "total_lines_removed": 15
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:54:49.083883",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.1674028000000005,
+        "total_duration_ms": 1530631,
+        "total_api_duration_ms": 360744,
+        "total_lines_added": 755,
+        "total_lines_removed": 15
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:54:52.531310",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.2458183000000007,
+        "total_duration_ms": 1534022,
+        "total_api_duration_ms": 367362,
+        "total_lines_added": 755,
+        "total_lines_removed": 15
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:55:03.389216",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.3358130500000005,
+        "total_duration_ms": 1544934,
+        "total_api_duration_ms": 377536,
+        "total_lines_added": 795,
+        "total_lines_removed": 15
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:55:19.255429",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.4405753000000003,
+        "total_duration_ms": 1560805,
+        "total_api_duration_ms": 392630,
+        "total_lines_added": 859,
+        "total_lines_removed": 15
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:55:33.085094",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.54778705,
+        "total_duration_ms": 1574626,
+        "total_api_duration_ms": 405574,
+        "total_lines_added": 914,
+        "total_lines_removed": 15
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:55:37.041058",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.54778705,
+        "total_duration_ms": 1578549,
+        "total_api_duration_ms": 405574,
+        "total_lines_added": 914,
+        "total_lines_removed": 15
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:55:40.150944",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.62768155,
+        "total_duration_ms": 1581625,
+        "total_api_duration_ms": 411748,
+        "total_lines_added": 914,
+        "total_lines_removed": 15
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:55:44.812331",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.6979273000000004,
+        "total_duration_ms": 1586342,
+        "total_api_duration_ms": 415425,
+        "total_lines_added": 914,
+        "total_lines_removed": 15
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:55:55.216573",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.7849012,
+        "total_duration_ms": 1596690,
+        "total_api_duration_ms": 426145,
+        "total_lines_added": 989,
+        "total_lines_removed": 15
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-24T11:56:10.496912",
+    "version": "unified",
+    "input_data": {
+      "session_id": "e369100d-bb29-44d3-a68b-4d3737665a4f",
+      "transcript_path": "/Users/jasonsimpson/.claude/projects/-Users-jasonsimpson-Projects-trakscape-fleet/e369100d-bb29-44d3-a68b-4d3737665a4f.jsonl",
+      "cwd": "/Users/jasonsimpson/Projects/trakscape-fleet",
+      "model": {
+        "id": "claude-opus-4-1-20250805",
+        "display_name": "Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/jasonsimpson/Projects/trakscape-fleet",
+        "project_dir": "/Users/jasonsimpson/Projects/trakscape-fleet"
+      },
+      "version": "1.0.123",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.8913097000000003,
+        "total_duration_ms": 1612013,
+        "total_api_duration_ms": 440422,
+        "total_lines_added": 1063,
+        "total_lines_removed": 15
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Agent]\u001b[0m | \u001b[34m[Opus 4.1]\u001b[0m | \u001b[36m\ud83d\udcc1 trakscape-fleet\u001b[0m"
+  }
+]
